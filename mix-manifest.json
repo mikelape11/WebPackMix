@@ -1,11 +1,7 @@
 {
-    "/dist-laravel-mix/manifest.js": "/dist-laravel-mix/manifest.js",
-    "/dist-laravel-mix/manifest.js.map": "/dist-laravel-mix/manifest.js.map",
-    "/dist-laravel-mix/script.js": "/dist-laravel-mix/script.js",
-    "/dist-laravel-mix/input.css": "/dist-laravel-mix/input.css",
-    "/dist-laravel-mix/script.js.map": "/dist-laravel-mix/script.js.map",
-    "/dist-laravel-mix/input.css.map": "/dist-laravel-mix/input.css.map",
-    "/dist-laravel-mix/vendor.js": "/dist-laravel-mix/vendor.js",
-    "/dist-laravel-mix/vendor.js.map": "/dist-laravel-mix/vendor.js.map",
-    "/dist-laravel-mix/index.html": "/dist-laravel-mix/index.html"
+    "/dist/manifest.js": "/dist/manifest.js",
+    "/dist/script.js": "/dist/script.js",
+    "/dist/input.css": "/dist/input.css",
+    "/dist/vendor.js": "/dist/vendor.js",
+    "/dist/index.html": "/dist/index.html"
 }

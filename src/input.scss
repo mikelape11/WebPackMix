@@ -2,9 +2,9 @@
 @import "variables";
 @import 'mixin';
 
-
 body{
     background-color: black;
+    overflow: hidden;
     .cuadrado1{
         position: absolute;
         margin-top: 5vh;
